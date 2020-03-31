@@ -1,0 +1,86 @@
+h1 {
+margin: 15px 0;
+font-weight: 400;
+}
+.testbox {
+display: flex;
+justify-content: center;
+align-items: center;
+height: inherit;
+padding: 3px;
+}
+input, select, textarea {
+margin-bottom: 10px;
+border: 1px solid #ccc;
+border-radius: 3px;
+}
+input {
+width: calc(100% - 10px);
+padding: 5px;
+}
+select {
+width: 100%;
+padding: 7px 0;
+background: transparent;
+}
+textarea {
+width: calc(100% - 6px);
+}
+.item {
+position: relative;
+margin: 10px 0;
+}
+.item:hover p, .item:hover i {
+color: #095484;
+}
+input:hover, select:hover, textarea:hover {
+box-shadow: 0 0 5px 0 #095484;
+}
+.btn-block {
+margin-top: 20px;
+text-align: center;
+}
+button {
+width: 150px;
+padding: 10px;
+border: none;
+-webkit-border-radius: 5px; 
+-moz-border-radius: 5px; 
+border-radius: 5px; 
+background-color: #095484;
+font-size: 16px;
+color: #fff;
+cursor: pointer;
+}
+button:hover {
+background-color: #0666a3;
+}
+@media (min-width: 568px) {
+.name-item, .city-item {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+.name-item input, .city-item input {
+width: calc(50% - 20px);
+}
+.city-item select {
+width: calc(50% - 8px);
+}
+}
+
+.kaka {
+    content: 'Select some files';
+  display: inline-block;
+  background: linear-gradient(top, #f9f9f9, #e3e3e3);
+  border: 1px solid #999;
+  border-radius: 3px;
+  padding: 5px 8px;
+  outline: none;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  cursor: pointer;
+  text-shadow: 1px 1px #fff;
+  font-weight: 700;
+  font-size: 10pt;
+}
