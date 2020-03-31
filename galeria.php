@@ -22,42 +22,8 @@ session_start();
         <div class="col-md-12 col-xl main-content">
             <div class="row">
 
-
-              <!-- Janela 1 -->
-              <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado21">
-                      <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_2/janela1.jpeg" alt="Image placeholder" class="img-fluid">
-                        <div class="blog-content-body">
-                            <h5 class="animal">01 - janela</h5>
-                            <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
-                        </div>
-                      </a>
-                    </div>
-
-                    <!-- Modal -->
-                  <div class="modal fade" id="ExemploModalCentralizado21" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <h1 class="modal-title" id="TituloModalCentralizado">01 - Janela</h1>
-                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
-                            <span aria-hidden="true">&times;</span>
-                          </button>
-                        </div>
-                        <img src="images/janelas/janelas_2/janela1.jpeg" alt="Image placeholder" class="img-fluid">
-                        <div class="modal-body">
-                        <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
-                            <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
-                            <hr>
-                        </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- Fim do bloco -->
                   <!-- Janela 1 -->
-              <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado22">
+              <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado9999">
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
                         <img src="images/janelas/janelas_2/janela1 (1).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="blog-content-body">
@@ -68,7 +34,7 @@ session_start();
                     </div>
 
                     <!-- Modal -->
-                  <div class="modal fade" id="ExemploModalCentralizado22" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                  <div class="modal fade" id="ExemploModalCentralizado9999" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                       <div class="modal-content">
                         <div class="modal-header">
@@ -89,39 +55,7 @@ session_start();
                     </div>
                   </div>
                   <!-- Fim do bloco -->
-                  <!-- Janela 1 -->
-              <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado23">
-                      <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_2/janela1 (2).jpeg" alt="Image placeholder" class="img-fluid">
-                        <div class="blog-content-body">
-                            <h5 class="animal">01 - janela</h5>
-                            <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
-                        </div>
-                      </a>
-                    </div>
 
-                    <!-- Modal -->
-                  <div class="modal fade" id="ExemploModalCentralizado23" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <h1 class="modal-title" id="TituloModalCentralizado">01 - Janela</h1>
-                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
-                            <span aria-hidden="true">&times;</span>
-                          </button>
-                        </div>
-                        <img src="images/janelas/janelas_2/janela1 (2).jpeg" alt="Image placeholder" class="img-fluid">
-                        <div class="modal-body">
-                        <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
-                            <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
-                            <hr>
-                        </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- Fim do bloco -->
                   <!-- Janela 1 -->
               <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado24">
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
@@ -2029,7 +1963,7 @@ session_start();
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
-                        <img src="images/janelas/janelas_2/janela39 (1)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (1).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - Janela</h5>
@@ -2045,7 +1979,7 @@ session_start();
                   <!-- Janela 39 -->
               <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado84">
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_2/janela39 (2)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (2).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - Mina Gerais</p><hr>
@@ -2063,7 +1997,7 @@ session_start();
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
-                        <img src="images/janelas/janelas_2/janela39 (2)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (2).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - Janela</h5>
@@ -2078,7 +2012,7 @@ session_start();
                   <!-- Janela 39 -->
               <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado85">
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_2/janela39 (3)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (3).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - Mina Gerais</p><hr>
@@ -2096,7 +2030,7 @@ session_start();
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
-                        <img src="images/janelas/janelas_2/janela39 (3)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (3).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - Janela</h5>
@@ -2111,7 +2045,7 @@ session_start();
                   <!-- Janela 39 -->
               <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado86">
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_2/janela39 (4)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (4).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - Mina Gerais</p><hr>
@@ -2129,7 +2063,7 @@ session_start();
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
-                        <img src="images/janelas/janelas_2/janela39 (4)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (4).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - Janela</h5>
@@ -2144,7 +2078,7 @@ session_start();
                   <!-- Janela 39 -->
               <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado87">
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_2/janela39 (5)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (5).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - Mina Gerais</p><hr>
@@ -2162,7 +2096,7 @@ session_start();
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
-                        <img src="images/janelas/janelas_2/janela39 (5)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (5).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - Janela</h5>
@@ -2177,7 +2111,7 @@ session_start();
                   <!-- Janela 39 -->
               <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado88">
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_2/janela39 (6)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (6).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - Mina Gerais</p><hr>
@@ -2195,7 +2129,7 @@ session_start();
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
-                        <img src="images/janelas/janelas_2/janela39 (6)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (6).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - Janela</h5>
@@ -2210,7 +2144,7 @@ session_start();
                   <!-- Janela 39 -->
               <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado89">
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_2/janela39 (7)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (7).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - Mina Gerais</p><hr>
@@ -2228,7 +2162,7 @@ session_start();
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
-                        <img src="images/janelas/janelas_2/janela39 (7)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (7).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - Janela</h5>
@@ -2243,7 +2177,7 @@ session_start();
                   <!-- Janela 39 -->
               <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado90">
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_2/janela39 (8)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (8).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - Mina Gerais</p><hr>
@@ -2261,7 +2195,7 @@ session_start();
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
-                        <img src="images/janelas/janelas_2/janela39 (8)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (8).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - Janela</h5>
@@ -2276,7 +2210,7 @@ session_start();
                   <!-- Janela 39 -->
               <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado91">
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_2/janela39 (9)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (9).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - Mina Gerais</p><hr>
@@ -2294,7 +2228,7 @@ session_start();
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
-                        <img src="images/janelas/janelas_2/janela39 (9)" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_2/janela39 (9).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
                             <h5 class="animal">39 - Janela</h5>
