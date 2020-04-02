@@ -5,7 +5,12 @@
 ?>
 
     <section class="site-section-colecao py-lg">
+
       <div class="container">
+
+      <form name='form' method=post action='link' enctype='multipart/form-data'>
+        <button class="btn btn-secondary" style="position: center" type="button" onclick="window.location='http://fonotropica.ufba.br/ccenglish.php'">English Version</button>
+      </form>
         
         <div class="row blog-entries element-animate">
 
@@ -64,7 +69,7 @@
                 <div class="bio-body">
                   <h2>Lucas R. Forti</h2>
                   <p>Biólogo e cientista com formação nas áreas de ecologia e comportamento animal.</p>
-                  <p><a href="#" class="btn btn-primary btn-sm rounded">Biografia</a></p>
+                  <p><a onClick={} class="btn btn-primary btn-sm rounded">Biografia</a></p>
                   <p class="social">
                     <a href="#" class="p-2"><span class="fa fa-facebook"></span></a>
                     <a href="#" class="p-2"><span class="fa fa-twitter"></span></a>

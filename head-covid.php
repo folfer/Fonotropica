@@ -5,10 +5,10 @@ header('Content-type: text/html; charset=utf-8');
 <!doctype html>
 <html class="no-touch" prefix="og: http://ogp.me/ns#" lang="pt-BR">
   <head>
+  
+    <title>Bioacoustics in times of coronavirus - Fonotropica</title>
 
-    <title>Bioacústica em tempos de coronavírus - Fonotropica</title>
-
-    <meta name="description" content="Que tal registrar a biodiversidade através de sua janela nesses dias de isolamento?">
+    <meta name="description" content="How about a biodiversity recorder through your window on these days of isolation?">
     <meta name="og:image" content="http://fonotropica.ufba.br/images/janela.jfif">
 
     <meta charset="utf-8">
