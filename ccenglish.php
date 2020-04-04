@@ -120,7 +120,7 @@
                 <img src="images/team-4-369x315.jpg" alt="Image Placeholder" class="img-fluid">
                 <div class="bio-body">
                   <h2>Lucas R. Forti</h2>
-                  <p>Biologist and scientist trained in the areas of ecology and animal behavior.</p>
+                  <p>Ecoacoustic scientist.</p>
                   <p><a onClick={} class="btn btn-primary btn-sm rounded">Biografia</a></p>
                   <p class="social">
                     <a href="#" class="p-2"><span class="fa fa-facebook"></span></a>

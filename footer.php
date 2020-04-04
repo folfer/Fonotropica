@@ -84,8 +84,8 @@
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/jquery.stellar.min.js"></script>
     <script src="js/bootstrap.bundle.min"></script>
-
-    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+    <script src="js/input-search.js"></script>
     <script src="js/main.js"></script>
   </body>
 </html>

@@ -17,6 +17,12 @@ session_start();
       <div class="col-md-6">
         <h1 class="mb-4">Galeria</h1>
       </div>
+<div class="header">
+  <input type="search" placeholder="Pesquisa por sua janela.">
+  <button class="btn btn-secondary" data-search="next">&darr;</button>
+  <button class="btn btn-secondary" data-search="prev">&uarr;</button>
+  <button class="btn btn-secondary" data-search="clear">✖</button>
+</div>
     </div>
     <div class="row blog-entries">
         <div class="col-md-12 col-xl main-content">
@@ -3007,7 +3013,6 @@ session_start();
 
               </div>
             </div>
-
       <!-- END main-content -->
 
 
