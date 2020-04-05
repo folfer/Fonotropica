@@ -56,6 +56,7 @@ include_once ("include/functions.php");
                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" style="text-transform: uppercase;" href="cc.php">Ciência cidadã</a>
                     <a class="dropdown-item" style="text-transform: uppercase;" href="galeria.php">Sonogramas</a>
+                    <a class="dropdown-item" style="text-transform: uppercase;" href="curso-fonotropica.php">Fotos do curso</a>
                     <div class="dropdown-divider"></div>
                   </div>
                 </li>

@@ -52,7 +52,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela1 (1).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -86,7 +86,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela1 (3).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -119,7 +119,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela1 (4).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -152,7 +152,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela1 (5).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -185,7 +185,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela1 (6).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -218,7 +218,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela1 (7).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -252,7 +252,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (1).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -286,7 +286,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (2).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -319,7 +319,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (3).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -352,7 +352,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (4).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -385,7 +385,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (5).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -418,7 +418,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (6).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -451,7 +451,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (7).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -484,7 +484,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (8).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -517,7 +517,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (9).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -550,7 +550,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (10).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -583,7 +583,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (11).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -616,7 +616,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (12).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -649,7 +649,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (13).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -682,7 +682,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (14).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -715,7 +715,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (15).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -748,7 +748,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (16).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -781,7 +781,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (17).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -814,7 +814,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (18).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -847,7 +847,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (19).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -880,7 +880,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela2 (20).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <hr>
                         </div>
@@ -914,7 +914,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela23.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">23 - Janela</h5>
+                            <h5 class="janelainside">23 - Janela</h5>
                             <p class="local">Nova Petrópolis - São Bernardo do Campo - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -948,7 +948,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (1).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -981,7 +981,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (2).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1014,7 +1014,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (3).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1047,7 +1047,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (4).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1080,7 +1080,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (5).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1113,7 +1113,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (6).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1146,7 +1146,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (7).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1179,7 +1179,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (8).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1212,7 +1212,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (9).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1245,7 +1245,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (10).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1278,7 +1278,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (11).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1311,7 +1311,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (12).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1344,7 +1344,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (13).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1377,7 +1377,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (14).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1410,7 +1410,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (15).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1443,7 +1443,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (16).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1476,7 +1476,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (17).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1509,7 +1509,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (18).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1542,7 +1542,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (19).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1575,7 +1575,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (20).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1608,7 +1608,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (21).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1641,7 +1641,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (22).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1674,7 +1674,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (23).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1707,7 +1707,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (24).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1740,7 +1740,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (25).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1773,7 +1773,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (26).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1806,7 +1806,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (27).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1839,7 +1839,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (28).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1872,7 +1872,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (29).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1905,7 +1905,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (30).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1938,7 +1938,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela35 (31).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">35 - Janela</h5>
+                            <h5 class="janelainside">35 - Janela</h5>
                             <p class="local">Anchieta - Belo Horizonte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -1972,7 +1972,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela39 (1).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">39 - Janela</h5>
+                            <h5 class="janelainside">39 - Janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -2006,7 +2006,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela39 (2).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">39 - Janela</h5>
+                            <h5 class="janelainside">39 - Janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -2039,7 +2039,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela39 (3).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">39 - Janela</h5>
+                            <h5 class="janelainside">39 - Janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -2072,7 +2072,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela39 (4).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">39 - Janela</h5>
+                            <h5 class="janelainside">39 - Janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -2105,7 +2105,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela39 (5).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">39 - Janela</h5>
+                            <h5 class="janelainside">39 - Janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -2138,7 +2138,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela39 (6).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">39 - Janela</h5>
+                            <h5 class="janelainside">39 - Janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -2171,7 +2171,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela39 (7).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">39 - Janela</h5>
+                            <h5 class="janelainside">39 - Janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -2204,7 +2204,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela39 (8).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">39 - Janela</h5>
+                            <h5 class="janelainside">39 - Janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -2237,7 +2237,7 @@ session_start();
                         <img src="images/janelas/janelas_2/janela39 (9).jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">39 - Janela</h5>
+                            <h5 class="janelainside">39 - Janela</h5>
                             <p class="local">Conceição de Ibitipoca - Lima Duarte - São Paulo</p><hr>
                             <hr>
                         </div>
@@ -2274,7 +2274,7 @@ session_start();
                         <img src="images/janelas/janela1_2020_03_19_06h_45min_01-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">19/03/2020<p>
                             <p class="date">11:00:31</p>
@@ -2312,7 +2312,7 @@ session_start();
                         <img src="images/janelas/janela1_2020_03_19_10h_14min_01-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">19/03/2020<p>
                             <p class="date">11:00:31</p>
@@ -2350,7 +2350,7 @@ session_start();
                         <img src="images/janelas/janela1_2020_03_19_15h_31min_01-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">19/03/2020<p>
                             <p class="date">11:00:31</p>
@@ -2388,7 +2388,7 @@ session_start();
                         <img src="images/janelas/janela1_2020_03_19_17h_09min_01-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">19/03/2020<p>
                             <p class="date">11:00:31</p>
@@ -2426,7 +2426,7 @@ session_start();
                         <img src="images/janelas/janela1_2020_03_20_16h_20min_01-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">19/03/2020<p>
                             <p class="date">11:00:31</p>
@@ -2464,7 +2464,7 @@ session_start();
                         <img src="images/janelas/janela1_2020_03_20_22h_06min_01-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">11:00:31</p>
@@ -2502,7 +2502,7 @@ session_start();
                         <img src="images/janelas/janela1_2020_03_21_05h_32min_01-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">11:00:31</p>
@@ -2540,7 +2540,7 @@ session_start();
                         <img src="images/janelas/janela1_2020_03_21_10h_56min_01-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">01 - Janela</h5>
+                            <h5 class="janelainside">01 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">11:00:31</p>
@@ -2578,7 +2578,7 @@ session_start();
                         <img src="images/janelas/Janela02_2020_03_19_07h_36min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">12:35:45</p>
@@ -2616,7 +2616,7 @@ session_start();
                         <img src="images/janelas/Janela02_2020_03_19_15h_26min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">12:35:45</p>
@@ -2654,7 +2654,7 @@ session_start();
                         <img src="images/janelas/Janela02_2020_03_19_17h_29min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">12:35:45</p>
@@ -2692,7 +2692,7 @@ session_start();
                         <img src="images/janelas/Janela02_2020_03_20_07h_40min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">12:35:45</p>
@@ -2730,7 +2730,7 @@ session_start();
                         <img src="images/janelas/Janela02_2020_03_20_08h_51min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">12:35:45</p>
@@ -2768,7 +2768,7 @@ session_start();
                         <img src="images/janelas/Janela02_2020_03_20_12h_42min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">02 - Janela</h5>
+                            <h5 class="janelainside">02 - Janela</h5>
                             <p class="local">Rio Vermelho - Salvador - Bahia</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">12:35:45</p>
@@ -2806,7 +2806,7 @@ session_start();
                         <img src="images/janelas/janela9_2020_03_20_14h_20min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">09 - Janela</h5>
+                            <h5 class="janelainside">09 - Janela</h5>
                             <p class="local">Amaralina - Salvador - Bahia</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">13:45:53</p>
@@ -2844,7 +2844,7 @@ session_start();
                         <img src="images/janelas/janela12_2020_03_21_6h_50min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">12 - Janela</h5>
+                            <h5 class="janelainside">12 - Janela</h5>
                             <p class="local">Rio das Ostras - Village - Rio de Janeiro</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">18:13:08</p>
@@ -2882,7 +2882,7 @@ session_start();
                         <img src="images/janelas/janela12_2020_03_21_18h_29min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">12 - Janela</h5>
+                            <h5 class="janelainside">12 - Janela</h5>
                             <p class="local">Rio das Ostras - Village - Rio de Janeiro</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">18:13:08</p>
@@ -2920,7 +2920,7 @@ session_start();
                         <img src="images/janelas/janela18_2020_03_23_01h_14min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">18 - Janela</h5>
+                            <h5 class="janelainside">18 - Janela</h5>
                             <p class="local">Juiz de Fora - Cascatinha - Minas Gerais</p><hr>
                             <p class="autor">20/03/2020<p>
                             <p class="date">22:42:54</p>
@@ -2958,7 +2958,7 @@ session_start();
                         <img src="images/janelas/janela23_2020_03_22_7h_44min-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">23 - Janela</h5>
+                            <h5 class="janelainside">23 - Janela</h5>
                             <p class="local">São Bernardo do Campo - Nova Petrópolis - São Paulo</p><hr>
                             <p class="autor">21/03/2020<p>
                             <p class="date">09:28:06</p>
@@ -2996,7 +2996,7 @@ session_start();
                         <img src="images/janelas/janela23_2020_03_22_8h_27-p1.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
-                            <h5 class="animal">23 - Janela</h5>
+                            <h5 class="janelainside">23 - Janela</h5>
                             <p class="local">São Bernardo do Campo - Nova Petrópolis - São Paulo</p><hr>
                             <p class="autor">21/03/2020<p>                            
                             <p class="date">09:28:06</p>
