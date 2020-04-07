@@ -28,10 +28,2492 @@ session_start();
         <div class="col-md-12 col-xl main-content">
             <div class="row">
 
+            <!-- Janela 45 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado550">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela45 (1).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">45 - janela</h5>
+                            <p class="local">Nova Granada - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado550" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">45 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela45 (1).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">45 - Janela</h5>
+                            <p class="local">Nova Granada - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 45 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado551">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela45 (2).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">45 - janela</h5>
+                            <p class="local">Nova Granada - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado551" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">45 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela45 (2).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">45 - Janela</h5>
+                            <p class="local">Nova Granada - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 45 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado552">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela45 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">45 - janela</h5>
+                            <p class="local">Nova Granada - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado552" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">45 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela45 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">45 - Janela</h5>
+                            <p class="local">Nova Granada - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 45 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado553">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela45 (4).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">45 - janela</h5>
+                            <p class="local">Nova Granada - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado553" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">45 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela45 (4).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">45 - Janela</h5>
+                            <p class="local">Nova Granada - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+            <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado500">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (1).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado500" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (1).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado501">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (2).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado501" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (2).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado502">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado502" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado504">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado504" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado505">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (4).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado505" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (4).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado506">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (5).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado506" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (5).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado507">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (6).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado507" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (6).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado508">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (7).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado508" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (7).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado509">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (8).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado509" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (8).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado510">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (9).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado510" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (9).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado511">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (10).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado511" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (10).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado512">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (11).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado512" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (11).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado513">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (12).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado513" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (12).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado514">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (13).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado514" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (13).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado515">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (14).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado515" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (14).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado516">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (15).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado516" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (15).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado517">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (16).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado517" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (16).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado518">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (17).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado518" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (17).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado519">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (18).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado519" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (18).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado520">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (19).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado520" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (19).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado521">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (20).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado521" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (20).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado522">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (21).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado522" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (21).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado523">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (22).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado523" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (22).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado524">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (23).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado524" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (23).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado525">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (24).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado525" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (24).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado526">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (25).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado526" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (25).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 35 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado527">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela35 (26).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">35 - janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado527" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">35 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela35 (26).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">35 - Janela</h5>
+                            <p class="local">Anchieta - Belo Horizonte - Minas Gerais</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado401">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (2).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado401" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (2).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado403">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado403" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado404">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (4).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado404" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (4).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado405">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (5).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado405" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (5).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado406">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (6).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado406" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (6).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado407">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (7).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado407" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (7).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado408">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (8).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado408" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (8).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado409">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (9).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado409" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (9).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado410">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (10).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado410" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (10).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado411">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (11).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado411" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (11).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado412">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (12).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado412" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (12).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado413">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (13).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado413" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (13).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado414">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (14).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado414" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (14).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado415">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (15).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado415" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (15).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado416">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (16).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado416" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (16).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado417">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (17).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado417" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (17).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado418">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (18).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado418" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (18).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado419">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (19).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado419" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (19).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 19 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado420">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela19 (20).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">19 - janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado420" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">19 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela19 (20).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">19 - Janela</h5>
+                            <p class="local">Vila Anastacio - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+            <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado309">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (1).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado309" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (1).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado310">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (2).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado310" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (2).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado311">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado311" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado312">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (4).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado312" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (4).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado313">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (5).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado313" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (5).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado314">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (6).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado314" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (6).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado315">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (7).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado315" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (7).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado316">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (8).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado316" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (8).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado317">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (9).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado317" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (9).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado318">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (10).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado318" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (10).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado319">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (11).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado319" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (11).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado320">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (12).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado320" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (12).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado321">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (13).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado321" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (13).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado322">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (14).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado322" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (14).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 08 -->
+            <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado323">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela8 (15).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">08 - janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado323" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">08 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela8 (15).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">08 - Janela</h5>
+                            <p class="local">Nossa senhora do perpétuo Socorro - Pindamonhangaba - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+             <!-- Janela 06 -->
+             <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado300">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela6 (1).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">06 - janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado300" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">06 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela6 (1).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">06 - Janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 06 -->
+             <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado301">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela6 (2).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">06 - janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado301" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">06 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela6 (2).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">06 - Janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 06 -->
+             <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado303">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela6 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">06 - janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado303" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">06 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela6 (3).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">06 - Janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 06 -->
+             <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado304">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela6 (4).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">06 - janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado304" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">06 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela6 (4).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">06 - Janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 06 -->
+             <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado305">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela6 (5).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">06 - janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado305" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">06 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela6 (5).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">06 - Janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 06 -->
+             <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado306">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela6 (6).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">06 - janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado306" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">06 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela6 (6).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">06 - Janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 06 -->
+             <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado307">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela6 (7).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">06 - janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado307" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">06 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela6 (7).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">06 - Janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
+                  <!-- Janela 06 -->
+             <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado308">
+                  <a class="blog-entry element-animate" data-animate-effect="fadeIn">
+                        <img src="images/janelas/janelas_4/janela6 (8).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="blog-content-body">
+                            <h5 class="animal">06 - janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                        </div>
+                      </a>
+                    </div>
+
+                    <!-- Modal -->
+                  <div class="modal fade" id="ExemploModalCentralizado308" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title" id="TituloModalCentralizado">06 - Janela</h1>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <img src="images/janelas/janelas_4/janela6 (8).jpeg" alt="Image placeholder" class="img-fluid">
+                        <div class="modal-body">
+                        <div class="blog-content-body">
+                            <h5 class="janelainside">06 - Janela</h5>
+                            <p class="local">Santana - São Paulo - São Paulo</p><hr>
+                            <hr>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- Fim do bloco -->
+
             <!-- Janela 56 -->
             <div class="col-md-4 galeria-quadros" data-toggle="modal" data-target="#ExemploModalCentralizado254">
                   <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                        <img src="images/janelas/janelas_3/janela56 (1).jpeg" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_3/janela56.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="blog-content-body">
                             <h5 class="animal">56 - janela</h5>
                             <p class="local">Imbiribeira - Recife - Pernambuco</p><hr>
@@ -49,7 +2531,7 @@ session_start();
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
-                        <img src="images/janelas/janelas_3/janela56 (1).jpeg" alt="Image placeholder" class="img-fluid">
+                        <img src="images/janelas/janelas_3/janela56.jpeg" alt="Image placeholder" class="img-fluid">
                         <div class="modal-body">
                         <div class="blog-content-body">
                             <h5 class="janelainside">56 - Janela</h5>
