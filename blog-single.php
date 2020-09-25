@@ -4,7 +4,7 @@
   require "header.php";
 ?>
 
-    <section class="site-section py-lg">
+    <section class="site-section py-lg fontsx">
       <div class="container">
         
         <div class="row blog-entries element-animate">

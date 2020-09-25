@@ -5,11 +5,11 @@ session_start();
 ?>
 
 <!-- Início da Equipe -->
-<section class="site-section pt-5">
+<section class="site-section pt-5 fontsx">
   <div class="container">
     <div class="row mb-4">
       <div class="col-md-6">
-        <h1 class="mb-4">A equipe</h1>
+        <h1 class="mb-4 fontsx">EQUIPE FONOTROPICA</h1>
       </div>
     </div>
     <div class="row blog-entries">
@@ -23,7 +23,7 @@ session_start();
                       <a class="blog-entry element-animate" data-animate-effect="fadeIn">
                         <img src="images/team-4-369x315.jpg" alt="Image placeholder">
                         <div class="blog-content-body">
-                            <h5>Lucas R. Forti</h5>
+                            <h5 class="fontsx">Lucas R. Forti</h5>
                             <p>Diretor Executivo</p>
                         </div>
                           <!-- Botão para acionar modal -->
@@ -38,14 +38,14 @@ session_start();
                     <div class="modal-dialog modal-dialog-centered" role="document">
                       <div class="modal-content">
                         <div class="modal-header">
-                          <h1 class="modal-title" id="TituloModalCentralizado">Lucas Rodriguez Forti</h1>
+                          <h1 class="modal-title fontsx" id="TituloModalCentralizado">Lucas Rodriguez Forti</h1>
                           <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
                             <span aria-hidden="true">&times;</span>
                           </button>
                         </div>
                         <img src="images/team-4-369x315.jpg" alt="Image placeholder">
                         <div class="modal-body">
-                          <p style="color: black;">"Sou biólogo e cientista com formação nas áreas de ecologia e comportamento animal. Meus principais interesses de pesquisas envolvem a interação parasita-hospedeiro, a comunicação em anfíbios e a acústica de paisagens. Todas as minhas questões de pesquisa visam preencher lacunas do conhecimento nessas grandes áreas. Como conservacionista também me preocupo em produzir dados científicos que possam dar suporte a preservação e manejo inteligente da biodiversidade. Recentemente, através de colaborações com outros colegas especialistas em conservação, tenho me proposto a participar e até liderar projetos que envolvem a determinação da distribuição do fungo patogênico Batrachochytrium dendrobatidis e seus efeitos sobre o comportamento social em anfíbios.  Obtive meu doutorado em ecologia aplicada pela Universidade de São Paulo (USP) em 2013 e desde então tenho sido um pesquisador produtivo, com diversos artigos publicados em revistas de circulação internacional. Recentemente cheguei a Bahia para iniciar um estágio pós-doutoral, atuando como docente e orientador no programa de pós-graduação em Ecologia: Teoria, Aplicações e Valores da UFBA. Durante essa nova etapa profissional, me propus a iniciar um projeto de extensão, pondo em prática um antigo desejo de aproximar a sociedade da biodiversidade através de uma coleção biológica de sons da natureza, a Fonotropica. "</p>
+                          <p style="color: black;" class="fontsx">"Sou biólogo e cientista com formação nas áreas de ecologia e comportamento animal. Meus principais interesses de pesquisas envolvem a interação parasita-hospedeiro, a comunicação em anfíbios e a acústica de paisagens. Todas as minhas questões de pesquisa visam preencher lacunas do conhecimento nessas grandes áreas. Como conservacionista também me preocupo em produzir dados científicos que possam dar suporte a preservação e manejo inteligente da biodiversidade. Recentemente, através de colaborações com outros colegas especialistas em conservação, tenho me proposto a participar e até liderar projetos que envolvem a determinação da distribuição do fungo patogênico Batrachochytrium dendrobatidis e seus efeitos sobre o comportamento social em anfíbios.  Obtive meu doutorado em ecologia aplicada pela Universidade de São Paulo (USP) em 2013 e desde então tenho sido um pesquisador produtivo, com diversos artigos publicados em revistas de circulação internacional. Recentemente cheguei a Bahia para iniciar um estágio pós-doutoral, atuando como docente e orientador no programa de pós-graduação em Ecologia: Teoria, Aplicações e Valores da UFBA. Durante essa nova etapa profissional, me propus a iniciar um projeto de extensão, pondo em prática um antigo desejo de aproximar a sociedade da biodiversidade através de uma coleção biológica de sons da natureza, a Fonotropica. "</p>
                         </div>
                         <div class="modal-footer">
                           <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -168,42 +168,6 @@ session_start();
               </div>
               <!-- Fim de Victor Calazans Ramos -->
 
-                <!-- Bloco de Equipes -->
-                <div class="col-md-4">
-                    <a class="blog-entry element-animate" data-animate-effect="fadeIn">
-                      <img src="images/team-3-369x315.jpg" alt="Image placeholder">
-                      <div class="blog-content-body">
-                          <h5>Jamile Freitas</h5>
-                          <p>Executor Midiático</p>
-                      </div>
-                      <!-- Botão para acionar modal -->
-                      <button type="button" class="btn btn-light btn-lg btn-block" data-toggle="modal" data-target="#ExemploModalCentralizado3">
-                        Descrição
-                      </button>
-                    </a>
-                  </div>
-
-                  <!-- Modal -->
-                  <div class="modal fade" id="ExemploModalCentralizado3" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <h1 class="modal-title" id="TituloModalCentralizado">Jamile Freitas</h1>
-                          <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
-                            <span aria-hidden="true">&times;</span>
-                          </button>
-                        </div>
-                        <img src="images/team-3-369x315.jpg" alt="Image placeholder">
-                        <div class="modal-body">
-                          <p style="color: black;">"Estudante de jornalismo, aspirante a fotógrafa e contadora de histórias."</p>
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
             <!-- Ítalo G. da S. Machado -->
               <!-- Bloco de Equipe -->
               <div class="col-md-4">
@@ -310,8 +274,6 @@ session_start();
                       <p></p>
                       <lu><h5 class="text-gray-900"><strong style="font-size: 20px">Equipe técnica e administrativa</strong></h5>
                         <li>&nbsp;Cássio Rachid Simões</li>
-                        <li>&nbsp;Jamile Freitas Roseira</li>
-                        <li>&nbsp;Danielle Ferreira Cardoso</li>
                         <li>&nbsp;Victor Calazans Ramos</li>
                         <li>&nbsp;Louise M. dos Santos</li>
                         <li>&nbsp;Ítalo G. da S. Machado</li>

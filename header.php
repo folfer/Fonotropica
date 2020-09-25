@@ -5,7 +5,7 @@ include_once ("include/functions.php");
   <body>
     
 
-    <div class="wrap">
+    <div class="wrap fontsx">
 
       <header role="banner">
 
@@ -13,19 +13,26 @@ include_once ("include/functions.php");
           <div class="row pt-5">
             <div class="col-12 text-center">
               <a class="absolute-toggle d-block d-md-none" data-toggle="collapse" href="#navbarMenu" role="button" aria-expanded="false" aria-controls="navbarMenu"><span class="burger-lines"></span></a>
-              <h1 class="site-logo"><a href="index.php">FONOTROPICA</a></h1>
+              <h1 class="site-logo fontsx"><a href="index.php">FONOTROPICA</a></h1>
               <div class="col-md-12">
               <hr>
-                <h4 style="text-align: center;"><a href="galeria.php">Como ler os sonogramas de suas janelas?</a></h4>
-              </div>
+              <a href="https://www.youtube.com/watch?v=2nc1CTmxkLs" target="_blank">
+              <img src="images/webinar.png" alt="..." class="webnars_img_logo" align="left">
+              <h1 class="webnars_title fontsx">Webinários da Fonotropica</h1>
+              <img src="images/LIVE.gif" alt="..." class="webnars_img_live" align="left" style="visibility:hidden;">
+              <a>Você também pode pegar o link das lives nas redes sociais da Fonotropica!</a>
+              </a>
+              <div>
+              <a href="https://twitter.com/fonotropica" target="_blank"><span class="fa fa-twitter"></span> Twitter </a> &nbsp;
+              <a href="https://www.youtube.com/channel/UCWlRF8l95Tvn2licQmWavcQ" target="_blank"><span class="fa fa-youtube"></span> Youtube </a> &nbsp;
+              <a href="https://www.instagram.com/fonotropica_br/" target="_blank"><span class="fa fa-instagram"></span> Instagram </a> &nbsp;
+              <div>
             </div>
           </div>
         </div>
         <hr></hr>
         <nav class="navbar navbar-expand-md  navbar-light bg-light">
           <div class="container">
-            
-           
             <div class="collapse navbar-collapse" id="navbarMenu">
               <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
@@ -36,27 +43,40 @@ include_once ("include/functions.php");
                 </li>
                 <li class="nav-item">
                     <a class="nav-link btn btn-light" href="colecao.php">A coleção</a>
-                  </li>
-
-                  <li class="nav-item">
+                </li>
+                <li class="nav-item">
                       <a class="nav-link btn btn-light" href="plataforma.php">A plataforma</a>
-                    </li>
-
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link btn btn-light" href="parceiros.php">Parceiros</a>
+                <li class="nav-item dropdown">
+                  <a class="nav-link btn btn-light dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Ciência Cidadã
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" style="text-transform: uppercase;" href="bioacustica-em-tempos-de-coronavirus.php">Bioacustica em tempos de coronavírus</a>
+                    <div class="dropdown-divider"></div>
+                  </div>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link btn btn-light" href="contact.php">Contatos</a>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link btn btn-light dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Projetos
                   </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" style="text-transform: uppercase;" href="cc.php">Ciência cidadã</a>
-                    <a class="dropdown-item" style="text-transform: uppercase;" href="galeria.php">Sonogramas</a>
+                    <a class="dropdown-item" style="text-transform: uppercase;" href="cadastro-de-pesquisador.php">Cadastro de pesquisador</a>
+                    <a class="dropdown-item" style="text-transform: uppercase;" href="sonogramas.php">Sonogramas</a>
+                    <a class="dropdown-item" style="text-transform: uppercase;" href="atualizacao-do-projeto-btc.php">Atualização do projeto BTC</a>
+                    <a class="dropdown-item" style="text-transform: uppercase;" href="programa-deteccao-de-especies.php">Programa Detecção de Espécies</a>
+                    <div class="dropdown-divider"></div>
+                  </div>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link btn btn-light dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Eventos
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
                     <a class="dropdown-item" style="text-transform: uppercase;" href="curso-fonotropica.php">Fotos do curso</a>
+                    <a class="dropdown-item" style="text-transform: uppercase;" href="webnarios.php">Webinários</a>
                     <div class="dropdown-divider"></div>
                   </div>
                 </li>

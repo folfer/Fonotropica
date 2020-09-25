@@ -1,4 +1,4 @@
-<footer class="site-footer site-section-body">
+<footer class="site-footer site-section-body fontsx">
         <div class="container">
           <div class="row mb-5">
             <div class="col-md-4">

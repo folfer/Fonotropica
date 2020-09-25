@@ -7,6 +7,10 @@ header('Content-type: text/html; charset=utf-8');
   <head>
     <title>Fonotropica &mdash; UFBA</title>
     <meta charset="utf-8">
+    <meta name="description" content="A fonotropica é o primeiro acervo digital acústico de uma universidade pública brasileira construido com input de ciência cidadã.">
+    <meta name="og:image" content="http://fonotropica.ufba.br/images/logo-default-297x63.png>
+
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300, 400,700|Inconsolata:400,700" rel="stylesheet">
