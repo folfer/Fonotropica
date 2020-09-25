@@ -19,7 +19,7 @@
 ## Preview
 
 <div align="center">
-  <img src="screenshots/first.jpg" width="800">
-  <img src="screenshots/second.jpg" width="800">
-  <img src="screenshots/third.jpg" width="800">
+  <img src="screenshot/first.jpg" width="800">
+  <img src="screenshot/second.jpg" width="800">
+  <img src="screenshot/third.jpg" width="800">
 </div>
